@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ivethende.github.io/sitemap.html.gz
+Sitemap: https://ivethende.github.io/app/sitemap.html.gz
+Sitemap: https://ivethende.github.io/assets/sitemap.html.gz
+Sitemap: https://ivethende.github.io/css/sitemap.html.gz
+Sitemap: https://ivethende.github.io/includes/sitemap.html.gz
+Sitemap: https://ivethende.github.io/item/sitemap.html.gz
+Sitemap: https://ivethende.github.io/src/sitemap.html.gz
